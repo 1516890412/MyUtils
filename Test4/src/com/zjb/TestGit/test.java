@@ -2,7 +2,7 @@ package com.zjb.TestGit;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("dfd");
+		System.out.println("ĞŞ¸Ä´úÂë");
 	}
 	
 }
